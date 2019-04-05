@@ -1,0 +1,9 @@
+Master Branch
+______________
+git init
+git status
+git add
+git status
+git commit -m "file"
+git remote add origin https://github.com/ganesmg/POMRepo.git
+git push -u origin master
